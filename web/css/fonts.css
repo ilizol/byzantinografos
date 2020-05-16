@@ -1,0 +1,38 @@
+/* ######### Alegreya ######### */
+
+@font-face {
+    font-family: 'Alegreya-Medium';
+    src: url('../../fonts/Alegreya-2_008/Alegreya-Medium.ttf')
+}
+
+/* ######### Byzantinografos ######### */
+
+@font-face {
+    font-family: 'KAAlmouziosChronos-Regular';
+    src: url('../../fonts/Byzantinografos/ByzFthoresDieseis.TTF');
+}
+
+@font-face {
+    font-family: 'ByzGreekFonts';
+    src: url('../../fonts/Byzantinografos/ByzGreekFonts.TTF');
+}
+
+@font-face {
+    font-family: 'ByzIsakratimata';
+    src: url('../../fonts/Byzantinografos/ByzIsakratimata.TTF');
+}
+
+@font-face {
+    font-family: 'ByzMartiries';
+    src: url('../../fonts/Byzantinografos/ByzMartiries.TTF');
+}
+
+@font-face {
+    font-family: 'ByzMusic';
+    src: url('../../fonts/Byzantinografos/ByzMusic.TTF');
+}
+
+@font-face {
+    font-family: 'ByzMusicOldSymbols';
+    src: url('../../fonts/Byzantinografos/ByzMusicOldSymbols.TTF');
+}
