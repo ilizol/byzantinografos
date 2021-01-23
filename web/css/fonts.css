@@ -1,14 +1,7 @@
-/* ######### Alegreya ######### */
-
-@font-face {
-    font-family: 'Alegreya-Medium';
-    src: url('../../fonts/Alegreya-2_008/Alegreya-Medium.ttf')
-}
-
 /* ######### Byzantinografos ######### */
 
 @font-face {
-    font-family: 'KAAlmouziosChronos-Regular';
+    font-family: 'ByzFthoresDieseis';
     src: url('../../fonts/Byzantinografos/ByzFthoresDieseis.TTF');
 }
 
